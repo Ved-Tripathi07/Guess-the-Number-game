@@ -1,9 +1,9 @@
 import random
 import math
-# Getting Inputs
+# Tsking Inputs
 lower = int(input("Enter Lower bound:- "))
 
-# Getting Inputs
+# Taking Inputs
 upper = int(input("Enter Upper bound:- "))
 
 # generating random number between
